@@ -1,0 +1,6 @@
+{
+  "name": "GrantGuide Agent",
+  "description": "An AI multi-agent assistant that helps nonprofits and students find relevant grants, check eligibility, create task checklists, and draft custom proposal outlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
